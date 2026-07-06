@@ -1,3 +1,10 @@
+## Citation
+
+If you use this repository, please cite:
+
+> Rodríguez Domínguez, A. (2026). *Causal Separation, Conditional Risk, and
+> Projected Markowitz Portfolios*. Zenodo. https://doi.org/10.5281/zenodo.21224465
+
 # Reproducibility package — *Causal Separation and Projected Markowitz Portfolios*
 
 Complete code for every experiment, figure and table of the paper. Synthetic data
