@@ -1,0 +1,29 @@
+{
+  "common_dates": 3191,
+  "first_date": "2010-07-02",
+  "last_date": "2023-06-30",
+  "assets": 150,
+  "training_designs": [
+    252,
+    504
+  ],
+  "portfolio_constraint": "unconstrained",
+  "estimators": [
+    "equal_weight",
+    "ledoit_wolf",
+    "nonlinear_shrinkage_qis",
+    "oas_shrinkage",
+    "pca_matched",
+    "pca_plus_two",
+    "poet_soft_c0_5",
+    "residual_aware_qr",
+    "ridge_10pct",
+    "sample_covariance",
+    "structured_q0"
+  ],
+  "folds_by_training_design": {
+    "252": 23,
+    "504": 21
+  },
+  "status": "PILOT_PANEL_B_ESTIMATION_COMPLETE"
+}

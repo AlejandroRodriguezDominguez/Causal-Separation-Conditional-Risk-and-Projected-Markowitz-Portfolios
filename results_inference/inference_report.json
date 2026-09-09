@@ -1,0 +1,12 @@
+{
+  "bootstrap_repetitions": 5000,
+  "sign_flip_repetitions": 20000,
+  "seed": 20260902,
+  "panel_a_folds": 38,
+  "panel_b_folds_by_training_design": {
+    "252": 23,
+    "504": 21
+  },
+  "difference_direction": "negative favors the reference method",
+  "multiplicity": "familywise within metric and training design via max-t/sign-flip maximum"
+}

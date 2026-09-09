@@ -1,0 +1,3 @@
+panel,folds,assets,mean_delta_s_f,median_relative_reduction_s_f,improved_fraction,median_selected_count,mean_state_delta_vs_constant_s_f,state_improved_fraction,observations
+equities_150,21,150,-0.1228580062958432,0.3814583592578706,1.0,3.0,-0.0090064909119887,0.8571428571428571,3196
+barclays_17,12,17,-0.1740430974971986,0.2495604654340361,1.0,6.0,0.0014759625805685,0.5833333333333334,269

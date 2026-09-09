@@ -1,0 +1,22 @@
+{
+  "folds": 38,
+  "driver_pool": 102,
+  "observable_comparator": [
+    "Cboe Volatility Index",
+    "DOLLAR INDEX SPOT",
+    "U.S. Treasury",
+    "Gold Spot   $/Oz",
+    "BBG Commodity"
+  ],
+  "median_selected_count": 3.0,
+  "mean_selected_count": 2.9473684210526314,
+  "median_test_s_f_reduction": 0.1786106584312495,
+  "mean_test_s_f_reduction": 0.1697839359418926,
+  "fraction_test_folds_improved": 1.0,
+  "selection_window_days": 504,
+  "certification_window_days": 252,
+  "outer_test_days": 126,
+  "penalty": 0.01,
+  "max_drivers": 8,
+  "status": "PILOT_PANEL_A_ESTIMATION_COMPLETE"
+}

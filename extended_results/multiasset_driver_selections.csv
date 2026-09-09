@@ -1,0 +1,132 @@
+fold,driver,panel
+0,Cboe Volatility Index,equities_150
+0,DAX INDEX,equities_150
+0,S&P/BMV IPC,equities_150
+0,Brazilian Real Spot,equities_150
+1,Cboe Volatility Index,equities_150
+1,DAX INDEX,equities_150
+1,S&P/BMV IPC,equities_150
+1,Brazilian Real Spot,equities_150
+1,Pan-European High Yield,equities_150
+2,Cboe Volatility Index,equities_150
+2,DAX INDEX,equities_150
+2,S&P/BMV IPC,equities_150
+2,Brazilian Real Spot,equities_150
+3,Cboe Volatility Index,equities_150
+3,DAX INDEX,equities_150
+3,S&P/BMV IPC,equities_150
+4,Cboe Volatility Index,equities_150
+4,DAX INDEX,equities_150
+5,Cboe Volatility Index,equities_150
+5,Generic 1st 'GX' Future,equities_150
+5,S&P/BMV IPC,equities_150
+6,Cboe Volatility Index,equities_150
+6,S&P/BMV IPC,equities_150
+7,Cboe Volatility Index,equities_150
+7,S&P/BMV IPC,equities_150
+7,CAD-JPY X-RATE,equities_150
+8,Cboe Volatility Index,equities_150
+8,Generic 1st 'Z ' Future,equities_150
+9,Cboe Volatility Index,equities_150
+9,Generic 1st 'Z ' Future,equities_150
+9,AUD-JPY X-RATE,equities_150
+10,Cboe Volatility Index,equities_150
+10,Generic 1st 'Z ' Future,equities_150
+10,EUR-GBP X-RATE,equities_150
+11,Cboe Volatility Index,equities_150
+11,AUD-JPY X-RATE,equities_150
+12,Cboe Volatility Index,equities_150
+12,AUD-JPY X-RATE,equities_150
+13,Cboe Volatility Index,equities_150
+13,AUD-JPY X-RATE,equities_150
+14,Cboe Volatility Index,equities_150
+14,AUD-JPY X-RATE,equities_150
+15,BRAZIL IBOVESPA INDEX,equities_150
+15,Cboe Volatility Index,equities_150
+15,Generic 1st 'Z ' Future,equities_150
+15,U.S. Corporate High Yield,equities_150
+15,US Generic Govt 10 Yr,equities_150
+16,BRAZIL IBOVESPA INDEX,equities_150
+16,Cboe Volatility Index,equities_150
+16,Generic 1st 'Z ' Future,equities_150
+16,U.S. Corporate High Yield,equities_150
+16,US Generic Govt 10 Yr,equities_150
+17,BRAZIL IBOVESPA INDEX,equities_150
+17,Generic 1st 'Z ' Future,equities_150
+17,Cboe Volatility Index,equities_150
+18,BRAZIL IBOVESPA INDEX,equities_150
+18,Generic 1st 'Z ' Future,equities_150
+18,Cboe Volatility Index,equities_150
+19,Cboe Volatility Index,equities_150
+19,IBEX 35 INDEX,equities_150
+19,S&P/BMV IPC,equities_150
+20,Cboe Volatility Index,equities_150
+20,U.S. Corporate High Yield,equities_150
+20,IBEX 35 INDEX,equities_150
+0,Global High Yield,barclays_17
+0,NIKKEI 225,barclays_17
+0,BBG Commodity,barclays_17
+0,FTSE 100 INDEX,barclays_17
+0,Generic 1st 'Z ' Future,barclays_17
+0,USD-GBP X-RATE,barclays_17
+1,HANG SENG INDEX,barclays_17
+1,Global High Yield,barclays_17
+1,NIKKEI 225,barclays_17
+1,GERMANY GOVT BND 10 YR DBR,barclays_17
+1,Silver Spot  $/Oz,barclays_17
+1,EUR SWAP ANN (VS 6M) 30Y,barclays_17
+2,FTSE 100 INDEX,barclays_17
+2,BRAZIL IBOVESPA INDEX,barclays_17
+2,Pan-European High Yield,barclays_17
+2,Silver Spot  $/Oz,barclays_17
+2,NIKKEI 225,barclays_17
+2,EM USD Aggregate,barclays_17
+3,FTSE 100 INDEX,barclays_17
+3,Pan-European High Yield,barclays_17
+3,Silver Spot  $/Oz,barclays_17
+3,NIKKEI 225,barclays_17
+3,GERMANY GOVT BND 2 YR BKO,barclays_17
+4,FTSE 100 INDEX,barclays_17
+4,Pan-European High Yield,barclays_17
+4,Silver Spot  $/Oz,barclays_17
+4,NIKKEI 225,barclays_17
+4,UK Gilts 5 Year,barclays_17
+5,FTSE 100 INDEX,barclays_17
+5,Pan-European High Yield,barclays_17
+5,AUD-JPY X-RATE,barclays_17
+5,Silver Spot  $/Oz,barclays_17
+5,UK Gilts 5 Year,barclays_17
+5,DAX INDEX,barclays_17
+6,Pan-European High Yield,barclays_17
+6,FTSE 100 INDEX,barclays_17
+6,AUD-JPY X-RATE,barclays_17
+6,Silver Spot  $/Oz,barclays_17
+6,UK Gilts 5 Year,barclays_17
+6,DAX INDEX,barclays_17
+7,Global High Yield,barclays_17
+7,Generic 1st 'GX' Future,barclays_17
+7,TR/CC CRB ER Index,barclays_17
+7,Pan-European High Yield,barclays_17
+7,FTSE 100 INDEX,barclays_17
+7,NIKKEI 225,barclays_17
+8,Global High Yield,barclays_17
+8,DAX INDEX,barclays_17
+8,EM USD Aggregate,barclays_17
+8,LME COPPER    3MO ($),barclays_17
+8,Argentine Peso Spot,barclays_17
+9,U.S. Corporate High Yield,barclays_17
+9,DAX INDEX,barclays_17
+9,LME COPPER    3MO ($),barclays_17
+9,NIKKEI 225,barclays_17
+9,Argentine Peso Spot,barclays_17
+10,U.S. Corporate High Yield,barclays_17
+10,DAX INDEX,barclays_17
+10,LME COPPER    3MO ($),barclays_17
+10,MSCI INDIA,barclays_17
+10,Generic 1st 'CO' Future,barclays_17
+11,U.S. Corporate High Yield,barclays_17
+11,Generic 1st 'GX' Future,barclays_17
+11,LME COPPER   SPOT ($),barclays_17
+11,MSCI INDIA,barclays_17
+11,NIKKEI 225,barclays_17
+11,Argentine Peso Spot,barclays_17

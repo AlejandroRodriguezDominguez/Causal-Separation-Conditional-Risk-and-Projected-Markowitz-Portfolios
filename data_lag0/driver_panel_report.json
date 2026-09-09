@@ -1,0 +1,19 @@
+{
+  "source_drivers": 127,
+  "pilot_eligible_drivers": 102,
+  "excluded_generic_futures": 21,
+  "excluded_low_frequency_releases": 2,
+  "excluded_discontinued_or_truncated": 2,
+  "confirmatory_eligible_drivers": 0,
+  "availability_lag_asset_sessions": 0,
+  "asset_return_rows_before_driver_intersection": 5864,
+  "common_complete_rows": 5544,
+  "common_start": "2002-01-07",
+  "common_end": "2023-06-30",
+  "asset_count": 12,
+  "innovation_missing_cells_common": 0,
+  "asset_missing_cells_common": 0,
+  "nonfinite_innovation_cells_common": 0,
+  "nonfinite_asset_cells_common": 0,
+  "status": "PILOT_READY_CONFIRMATORY_PROVENANCE_UNRESOLVED"
+}

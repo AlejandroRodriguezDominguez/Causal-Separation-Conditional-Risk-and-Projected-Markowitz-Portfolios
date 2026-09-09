@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "random_seed": 20260903,
+  "source": {
+    "equity_prices": "Tiingo daily end-of-day close prices (150 fixed-universe tickers)",
+    "drivers": "Bloomberg PX_LAST observations, transformed per driver ledger",
+    "hedge_fund_indices": "17 BarclayHedge hedge-fund strategy indices, monthly returns"
+  },
+  "multiasset": [
+    {
+      "panel": "equities_150",
+      "folds": 21,
+      "assets": 150,
+      "mean_delta_s_f": -0.1228580062958432,
+      "median_relative_reduction_s_f": 0.3814583592578706,
+      "improved_fraction": 1.0,
+      "median_selected_count": 3.0,
+      "mean_state_delta_vs_constant_s_f": -0.009006490911988782,
+      "state_improved_fraction": 0.8571428571428571,
+      "observations": 3196
+    },
+    {
+      "panel": "barclays_17",
+      "folds": 12,
+      "assets": 17,
+      "mean_delta_s_f": -0.17404309749719868,
+      "median_relative_reduction_s_f": 0.24956046543403615,
+      "improved_fraction": 1.0,
+      "median_selected_count": 6.0,
+      "mean_state_delta_vs_constant_s_f": 0.0014759625805685905,
+      "state_improved_fraction": 0.5833333333333334,
+      "observations": 269
+    }
+  ],
+  "controlled_rows": 1920
+}

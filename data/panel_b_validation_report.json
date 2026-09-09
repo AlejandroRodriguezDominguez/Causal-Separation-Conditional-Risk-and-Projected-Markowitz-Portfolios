@@ -1,0 +1,30 @@
+{
+  "main_shape": [
+    3247,
+    150
+  ],
+  "sensitivity_shape": [
+    3207,
+    150
+  ],
+  "duplicate_dates": 0,
+  "missing_cells": 0,
+  "nonfinite_cells": 0,
+  "max_abs_log_return": 0.7735925457786844,
+  "max_abs_ticker": "APA",
+  "max_abs_date": "2020-03-09",
+  "event_status_counts": {
+    "ADJUSTED_MECHANICAL_SPLIT_CANDIDATE": 37,
+    "RETAINED_VERIFIED_MARKET_MOVE": 9,
+    "EXCLUDED_VERIFIED_DISTRIBUTION_DATE": 5,
+    "ADJUSTED_VERIFIED_FACTOR": 4
+  },
+  "date_monotonic": true,
+  "column_count_unique": true,
+  "sha256": {
+    "panel_b_log_price_returns.csv": "6e33464dfcf715c6297c2dbecacb3f47743d8d11669a4b498ab732613e3ab45d",
+    "panel_b_event_day_exclusion_log_returns.csv": "7fd6f7a5e9e11fd0a36e110727ecdc0d9f2e73a726e13b2fabd69ed536a5e0b7",
+    "panel_b_corporate_action_candidates.csv": "d1da07962447cfcc1f7a92ca57788a9fa013dc99cf9ae72d0c9d64cbb947f17a",
+    "panel_b_construction_report.json": "8f09befed0da6de173d476e0b6e2d6990fb71dfa5b27e30ae47fce9f8866b4ff"
+  }
+}

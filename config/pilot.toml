@@ -1,0 +1,43 @@
+[study]
+cutoff = "2023-06-30"
+annualization = 252
+outer_test_days = 126
+random_seed = 20260902
+
+[panel_a]
+selection_days = 504
+certification_days = 252
+max_drivers = 8
+complexity_penalty = 0.01
+bootstrap_replications = 1000
+bootstrap_block_days = 21
+
+[panel_b]
+training_days = [252, 504]
+residual_alpha_grid = [0.0, 0.10, 0.25, 0.50, 0.75, 0.90]
+eigenvalue_floor_scale = 1e-6
+primary_cost_bps = 10
+cost_grid_bps = [5, 10, 20]
+
+[benchmarks]
+estimators = [
+  "equal_weight",
+  "sample_covariance",
+  "ridge_10pct",
+  "ledoit_wolf",
+  "oas_shrinkage",
+  "nonlinear_shrinkage_qis",
+  "pca_matched",
+  "pca_plus_two",
+  "poet_soft_c0_5",
+  "structured_q0",
+  "residual_aware_qr",
+]
+
+[data_policy]
+asset_returns_must_be_adjusted = true
+delisting_returns_required_when_applicable = true
+allow_heuristic_split_repair = false
+allow_missing_return_imputation = false
+allow_future_defined_driver_universe = false
+require_point_in_time_driver_ledger = true

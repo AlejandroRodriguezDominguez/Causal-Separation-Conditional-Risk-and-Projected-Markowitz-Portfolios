@@ -1,0 +1,31 @@
+# Panel B return reconstruction
+
+This is a fixed-universe price-return dataset. It is not CRSP `RET/DLRET`,
+does not include dividends, and is not a point-in-time S&P 500 membership backtest.
+
+| Check | Result |
+|---|---:|
+| `data_product` | fixed-universe split-adjusted log price returns |
+| `not_equivalent_to` | CRSP RET/DLRET, total returns, point-in-time index membership |
+| `source_rows_in_range` | 3289 |
+| `assets` | 150 |
+| `retained_return_rows` | 3247 |
+| `dropped_return_rows_due_to_missing_or_invalid_endpoint` | 36 |
+| `dropped_return_rows_due_to_verified_distribution` | 5 |
+| `first_return_date` | 2010-07-02 |
+| `last_return_date` | 2023-06-30 |
+| `automatic_large_move_candidates` | 47 |
+| `event_audit_rows` | 55 |
+| `verified_factor_adjustments` | 4 |
+| `mechanical_split_adjustments` | 37 |
+| `unmatched_large_candidates` | 0 |
+| `verified_distribution_dates_excluded` | 5 |
+| `verified_market_moves_retained` | 9 |
+| `unresolved_post_adjustment_moves` | 0 |
+| `dividends_included` | False |
+| `missing_prices_imputed` | False |
+| `return_across_missing_source_observation` | False |
+| `survivorship_conditioned_fixed_universe` | True |
+| `publication_status` | READY_FOR_FIXED_UNIVERSE_PRICE_RETURN_ANALYSIS |
+| `event_dates_removed_in_sensitivity_panel` | 45 |
+| `sensitivity_return_rows` | 3207 |
